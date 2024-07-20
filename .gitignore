@@ -1,2 +1,8 @@
 _site
 .sass-cache
+<<<<<<< HEAD
+=======
+.jekyll-cache
+.jekyll-metadata
+vendor
+>>>>>>> 2162e56 (My blog moose)
